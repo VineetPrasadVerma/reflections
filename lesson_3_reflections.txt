@@ -28,3 +28,7 @@ stored locally?
 
 	 If I am about to go without Internet access for a while, for example to work
     on a plane, I can update my local copy before I leave.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I would be really dfficult to collabrate without github we cant share our code and also we cant able to update someone's file easily
